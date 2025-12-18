@@ -1,0 +1,1085 @@
+tench
+goldfish
+great white shark
+tiger shark
+hammerhead shark
+electric ray
+stingray
+cock
+hen
+ostrich
+raven
+swan
+eagle
+hawk
+goose
+duck
+darter
+pelican
+king penguin
+albatross
+goose
+duck
+darter
+pelican
+cormorant
+crane
+limpkin
+flamingo
+peacock
+turkey
+quail
+partridge
+african grey
+macaw
+parrot
+parakeet
+budgerigar
+macaw
+peacock
+pheasant
+quail
+quail
+chickenella
+ruffed grouse
+prairie chicken
+peacock
+quail
+pheasant
+grouse
+ptarmigan
+ruffed grouse
+sage grouse
+capercaillie
+black grouse
+spruce grouse
+willow ptarmigan
+rock ptarmigan
+white-tailed ptarmigan
+chukar partridge
+gray partridge
+red-legged partridge
+gambel quail
+california quail
+helmet quail
+scaled quail
+montezuma quail
+japanese quail
+bobwhite quail
+buttonquail
+hazel grouse
+spruce grouse
+black grouse
+capercaillie
+spruce grouse
+willow ptarmigan
+rock ptarmigan
+white-tailed ptarmigan
+ruffed grouse
+sage grouse
+prairie chicken
+greater prairie chicken
+lesser prairie chicken
+sharp-tailed grouse
+sage grouse
+spruce grouse
+willow ptarmigan
+rock ptarmigan
+white-tailed ptarmigan
+ruffed grouse
+sage grouse
+prairie chicken
+greater prairie chicken
+lesser prairie chicken
+sharp-tailed grouse
+chicken
+guinea fowl
+peacock
+turkey
+quail
+partridge
+pheasant
+crane
+limpkin
+rail
+crane
+limpkin
+oystercatcher
+plovers
+lapwing
+killdeer
+mountain plover
+golden plover
+gray plover
+turnstone
+red knot
+sanderling
+little stint
+temminck stint
+least sandpiper
+white-rumped sandpiper
+baird sandpiper
+pectoral sandpiper
+dunlin
+curlew sandpiper
+stilt sandpiper
+spoonbill sandpiper
+marbled godwit
+hudsonian godwit
+bar-tailed godwit
+whimbrel
+slender-billed curlew
+long-billed curlew
+upland sandpiper
+spotted sandpiper
+solitary sandpiper
+wood sandpiper
+terek sandpiper
+common redshank
+spotted redshank
+greater yellowlegs
+lesser yellowlegs
+marsh sandpiper
+common greenshank
+willet
+wandering tattler
+gray-tailed tattler
+spotted sandpiper
+terek sandpiper
+upland sandpiper
+whimbrel
+long-billed curlew
+slender-billed curlew
+bar-tailed godwit
+hudsonian godwit
+marbled godwit
+spoonbill sandpiper
+stilt sandpiper
+curlew sandpiper
+dunlin
+pectoral sandpiper
+baird sandpiper
+white-rumped sandpiper
+least sandpiper
+temminck stint
+little stint
+sanderling
+red knot
+turnstone
+gray plover
+golden plover
+killdeer
+mountain plover
+lapwing
+oystercatcher
+stilt
+avocet
+phalarope
+stone-curlew
+thick-knee
+dikkop
+pratincole
+skua
+pomarine jaeger
+parasitic jaeger
+long-tailed jaeger
+gull
+black-headed gull
+european herring gull
+glaucous gull
+great black-backed gull
+tern
+gull-billed tern
+caspian tern
+royal tern
+elegant tern
+common tern
+arctic tern
+forster tern
+least tern
+bridled tern
+sooty tern
+black tern
+white-winged tern
+skimmer
+dodo
+passenger pigeon
+pigeon
+rock pigeon
+pigeon
+collared dove
+turtle dove
+oriental turtle dove
+spotted dove
+laughing dove
+diamond dove
+zebra dove
+ring-necked dove
+gray-headed dove
+ruddy ground dove
+inca dove
+common ground dove
+lesser ground dove
+scaled dove
+white-winged dove
+zenaida dove
+mourning dove
+passenger pigeon
+dodo
+pigeon
+peacock
+pheasant
+grouse
+ptarmigan
+ruffed grouse
+sage grouse
+prairie chicken
+greater prairie chicken
+lesser prairie chicken
+sharp-tailed grouse
+chicken
+guinea fowl
+peacock
+turkey
+quail
+partridge
+pheasant
+crane
+limpkin
+rail
+oystercatcher
+plovers
+lapwing
+killdeer
+mountain plover
+golden plover
+gray plover
+turnstone
+red knot
+sanderling
+little stint
+temminck stint
+least sandpiper
+white-rumped sandpiper
+baird sandpiper
+pectoral sandpiper
+dunlin
+curlew sandpiper
+stilt sandpiper
+spoonbill sandpiper
+marbled godwit
+hudsonian godwit
+bar-tailed godwit
+whimbrel
+slender-billed curlew
+long-billed curlew
+upland sandpiper
+spotted sandpiper
+solitary sandpiper
+wood sandpiper
+terek sandpiper
+common redshank
+spotted redshank
+greater yellowlegs
+lesser yellowlegs
+marsh sandpiper
+common greenshank
+willet
+wandering tattler
+gray-tailed tattler
+spotted sandpiper
+terek sandpiper
+upland sandpiper
+whimbrel
+long-billed curlew
+slender-billed curlew
+bar-tailed godwit
+hudsonian godwit
+marbled godwit
+spoonbill sandpiper
+stilt sandpiper
+curlew sandpiper
+dunlin
+pectoral sandpiper
+baird sandpiper
+white-rumped sandpiper
+least sandpiper
+temminck stint
+little stint
+sanderling
+red knot
+turnstone
+gray plover
+golden plover
+killdeer
+mountain plover
+lapwing
+oystercatcher
+stilt
+avocet
+phalarope
+stone-curlew
+thick-knee
+dikkop
+pratincole
+skua
+pomarine jaeger
+parasitic jaeger
+long-tailed jaeger
+gull
+black-headed gull
+european herring gull
+glaucous gull
+great black-backed gull
+tern
+gull-billed tern
+caspian tern
+royal tern
+elegant tern
+common tern
+arctic tern
+forster tern
+least tern
+bridled tern
+sooty tern
+black tern
+white-winged tern
+skimmer
+dodo
+passenger pigeon
+pigeon
+rock pigeon
+pigeon
+collared dove
+turtle dove
+oriental turtle dove
+spotted dove
+laughing dove
+diamond dove
+zebra dove
+ring-necked dove
+gray-headed dove
+ruddy ground dove
+inca dove
+common ground dove
+lesser ground dove
+scaled dove
+white-winged dove
+zenaida dove
+mourning dove
+passenger pigeon
+dodo
+pigeon
+great auk
+little auk
+razorbill
+atlantic puffin
+horned puffin
+tufted puffin
+eared grebe
+western grebe
+clark grebe
+red-necked grebe
+great crested grebe
+little grebe
+pied-billed grebe
+cormorant
+double-crested cormorant
+great cormorant
+shag
+anhinga
+frigate bird
+great frigatebird
+magnificent frigatebird
+pelican
+american white pelican
+brown pelican
+peruvian pelican
+dalmatian pelican
+white pelican
+great white pelican
+pink-backed pelican
+australian pelican
+gannet
+masked booby
+blue-footed booby
+brown booby
+peruvian booby
+nazca booby
+masked booby
+blue-footed booby
+brown booby
+red-footed booby
+lesser frigatebird
+herons
+egret
+bittern
+tiger bittern
+least bittern
+american bittern
+eurasian bittern
+little bittern
+black-crowned night heron
+yellow-crowned night heron
+green heron
+striated heron
+great blue heron
+grey heron
+purple heron
+cocoi heron
+goliath heron
+black heron
+white heron
+intermediate egret
+great egret
+snowy egret
+little egret
+chinese egret
+western reef heron
+eastern cattle egret
+western cattle egret
+cattle egret
+squacco heron
+indian pond heron
+chinese pond heron
+japanese night heron
+malayan night heron
+black-crowned night heron
+yellow-crowned night heron
+agami heron
+white-crested tiger heron
+rufous-sided tiger heron
+fasciated tiger heron
+boat-billed heron
+hamerkop
+ibis
+spoonbill
+flamingo
+swan
+goose
+duck
+grebe
+pelican
+cormorant
+darter
+frigatebird
+booby
+gannet
+heron
+egret
+bittern
+ibis
+spoonbill
+flamingo
+stork
+shoebill
+hamerkop
+tiger heron
+heron
+crane
+rail
+bustard
+secretary bird
+caracara
+falcon
+hawk
+eagle
+vulture
+osprey
+snake eagle
+kestrel
+merlin
+hobby
+gyrfalcon
+peregrine falcon
+lanner falcon
+saker falcon
+barbary falcon
+amur falcon
+eurasian kestrel
+greater kestrel
+lesser kestrel
+banded kestrel
+variable goshawk
+crested goshawk
+red goshawk
+african goshawk
+spot-tailed goshawk
+dark chanting goshawk
+pale chanting goshawk
+eastern chanting goshawk
+gray frog hawk
+rufous-thighed kite
+mississippi kite
+eurasian kite
+swallow-tailed kite
+hook-billed kite
+brahminy kite
+sea eagle
+white-tailed eagle
+steller sea eagle
+american golden eagle
+golden eagle
+wedge-tailed eagle
+verreauxs eagle
+martial eagle
+crowned eagle
+cassin eagle
+african hawk eagle
+ornate hawk eagle
+philippine hawk eagle
+javan hawk eagle
+wallace hawk eagle
+rufous-bellied eagle
+red-tailed hawk
+ferruginous hawk
+rough-legged buzzard
+common buzzard
+steller sea eagle
+white-tailed eagle
+american golden eagle
+golden eagle
+wedge-tailed eagle
+verreauxs eagle
+martial eagle
+crowned eagle
+cassin eagle
+african hawk eagle
+ornate hawk eagle
+philippine hawk eagle
+javan hawk eagle
+wallace hawk eagle
+rufous-bellied eagle
+red-tailed hawk
+ferruginous hawk
+rough-legged buzzard
+common buzzard
+eurasian sparrowhawk
+northern goshawk
+crested serpent eagle
+short-toed snake eagle
+bearded vulture
+egyptian vulture
+palm-nut vulture
+griffon vulture
+himalayan griffon vulture
+eurasian black vulture
+bengal vulture
+white-rumped vulture
+red-headed vulture
+lappet-faced vulture
+white-headed vulture
+hooded vulture
+african white-backed vulture
+slender-billed vulture
+cinereous vulture
+california condor
+andean condor
+turkey vulture
+black vulture
+lesser yellow-headed vulture
+greater yellow-headed vulture
+king vulture
+osprey
+crowned eagle
+cassin eagle
+african hawk eagle
+ornate hawk eagle
+philippine hawk eagle
+javan hawk eagle
+wallace hawk eagle
+rufous-bellied eagle
+red-tailed hawk
+ferruginous hawk
+rough-legged buzzard
+common buzzard
+eurasian sparrowhawk
+northern goshawk
+crested serpent eagle
+short-toed snake eagle
+bearded vulture
+egyptian vulture
+palm-nut vulture
+griffon vulture
+himalayan griffon vulture
+eurasian black vulture
+bengal vulture
+white-rumped vulture
+red-headed vulture
+lappet-faced vulture
+white-headed vulture
+hooded vulture
+african white-backed vulture
+slender-billed vulture
+cinereous vulture
+california condor
+andean condor
+turkey vulture
+black vulture
+lesser yellow-headed vulture
+greater yellow-headed vulture
+king vulture
+osprey
+secretary bird
+caracara
+falcon
+hawk
+eagle
+vulture
+osprey
+snake eagle
+kestrel
+merlin
+hobby
+gyrfalcon
+peregrine falcon
+lanner falcon
+saker falcon
+barbary falcon
+amur falcon
+eurasian kestrel
+greater kestrel
+lesser kestrel
+banded kestrel
+variable goshawk
+crested goshawk
+red goshawk
+african goshawk
+spot-tailed goshawk
+dark chanting goshawk
+pale chanting goshawk
+eastern chanting goshawk
+gray frog hawk
+rufous-thighed kite
+mississippi kite
+eurasian kite
+swallow-tailed kite
+hook-billed kite
+brahminy kite
+sea eagle
+white-tailed eagle
+steller sea eagle
+american golden eagle
+golden eagle
+wedge-tailed eagle
+verreauxs eagle
+martial eagle
+crowned eagle
+cassin eagle
+african hawk eagle
+ornate hawk eagle
+philippine hawk eagle
+javan hawk eagle
+wallace hawk eagle
+rufous-bellied eagle
+red-tailed hawk
+ferruginous hawk
+rough-legged buzzard
+common buzzard
+steller sea eagle
+white-tailed eagle
+american golden eagle
+golden eagle
+wedge-tailed eagle
+verreauxs eagle
+martial eagle
+crowned eagle
+cassin eagle
+african hawk eagle
+ornate hawk eagle
+philippine hawk eagle
+javan hawk eagle
+wallace hawk eagle
+rufous-bellied eagle
+red-tailed hawk
+ferruginous hawk
+rough-legged buzzard
+common buzzard
+eurasian sparrowhawk
+northern goshawk
+crested serpent eagle
+short-toed snake eagle
+bearded vulture
+egyptian vulture
+palm-nut vulture
+griffon vulture
+himalayan griffon vulture
+eurasian black vulture
+bengal vulture
+white-rumped vulture
+red-headed vulture
+lappet-faced vulture
+white-headed vulture
+hooded vulture
+african white-backed vulture
+slender-billed vulture
+cinereous vulture
+california condor
+andean condor
+turkey vulture
+black vulture
+lesser yellow-headed vulture
+greater yellow-headed vulture
+king vulture
+osprey
+alligator
+crocodile
+snake
+turtle
+lizard
+frog
+toad
+salamander
+caecilian
+goldfish
+carp
+pike
+piranha
+catfish
+eel
+lungfish
+coelacanth
+lungfish
+coelacanth
+chimaera
+shark
+ray
+sawfish
+skate
+guitarfish
+sawback
+stingray
+manta ray
+eagle ray
+guitarfish
+sawback
+stingray
+manta ray
+eagle ray
+anglerfish
+tuna
+mackerel
+sailfish
+marlin
+seahorse
+pipefish
+puffin
+auk
+guillemot
+kittiwake
+gull
+tern
+pelican
+cormorant
+darter
+anhinga
+frigatebird
+booby
+gannet
+heron
+egret
+bittern
+ibis
+spoonbill
+flamingo
+stork
+shoebill
+hamerkop
+tiger heron
+crane
+rail
+bustard
+secretary bird
+caracara
+falcon
+hawk
+eagle
+vulture
+osprey
+snake eagle
+kestrel
+merlin
+hobby
+gyrfalcon
+peregrine falcon
+lanner falcon
+saker falcon
+barbary falcon
+amur falcon
+eurasian kestrel
+greater kestrel
+lesser kestrel
+banded kestrel
+variable goshawk
+crested goshawk
+red goshawk
+african goshawk
+spot-tailed goshawk
+dark chanting goshawk
+pale chanting goshawk
+eastern chanting goshawk
+gray frog hawk
+rufous-thighed kite
+mississippi kite
+eurasian kite
+swallow-tailed kite
+hook-billed kite
+brahminy kite
+sea eagle
+white-tailed eagle
+steller sea eagle
+american golden eagle
+golden eagle
+wedge-tailed eagle
+verreauxs eagle
+martial eagle
+crowned eagle
+cassin eagle
+african hawk eagle
+ornate hawk eagle
+philippine hawk eagle
+javan hawk eagle
+wallace hawk eagle
+rufous-bellied eagle
+red-tailed hawk
+ferruginous hawk
+rough-legged buzzard
+common buzzard
+eurasian sparrowhawk
+northern goshawk
+crested serpent eagle
+short-toed snake eagle
+bearded vulture
+egyptian vulture
+palm-nut vulture
+griffon vulture
+himalayan griffon vulture
+eurasian black vulture
+bengal vulture
+white-rumped vulture
+red-headed vulture
+lappet-faced vulture
+white-headed vulture
+hooded vulture
+african white-backed vulture
+slender-billed vulture
+cinereous vulture
+california condor
+andean condor
+turkey vulture
+black vulture
+lesser yellow-headed vulture
+greater yellow-headed vulture
+king vulture
+osprey
+great auk
+little auk
+razorbill
+atlantic puffin
+horned puffin
+tufted puffin
+eared grebe
+western grebe
+clark grebe
+red-necked grebe
+great crested grebe
+little grebe
+pied-billed grebe
+cormorant
+double-crested cormorant
+great cormorant
+shag
+anhinga
+frigate bird
+great frigatebird
+magnificent frigatebird
+pelican
+american white pelican
+brown pelican
+peruvian pelican
+dalmatian pelican
+white pelican
+great white pelican
+pink-backed pelican
+australian pelican
+gannet
+masked booby
+blue-footed booby
+brown booby
+peruvian booby
+nazca booby
+masked booby
+blue-footed booby
+brown booby
+red-footed booby
+lesser frigatebird
+herons
+egret
+bittern
+tiger bittern
+least bittern
+american bittern
+eurasian bittern
+little bittern
+black-crowned night heron
+yellow-crowned night heron
+green heron
+striated heron
+great blue heron
+grey heron
+purple heron
+cocoi heron
+goliath heron
+black heron
+white heron
+intermediate egret
+great egret
+snowy egret
+little egret
+chinese egret
+western reef heron
+eastern cattle egret
+western cattle egret
+cattle egret
+squacco heron
+indian pond heron
+chinese pond heron
+japanese night heron
+malayan night heron
+black-crowned night heron
+yellow-crowned night heron
+agami heron
+white-crested tiger heron
+rufous-sided tiger heron
+fasciated tiger heron
+boat-billed heron
+hamerkop
+ibis
+spoonbill
+flamingo
+swan
+goose
+duck
+grebe
+pelican
+cormorant
+darter
+frigatebird
+booby
+gannet
+heron
+egret
+bittern
+ibis
+spoonbill
+flamingo
+stork
+shoebill
+hamerkop
+tiger heron
+heron
+crane
+rail
+bustard
+secretary bird
+caracara
+falcon
+hawk
+eagle
+vulture
+osprey
+snake eagle
+kestrel
+merlin
+hobby
+gyrfalcon
+peregrine falcon
+lanner falcon
+saker falcon
+barbary falcon
+amur falcon
+eurasian kestrel
+greater kestrel
+lesser kestrel
+banded kestrel
+variable goshawk
+crested goshawk
+red goshawk
+african goshawk
+spot-tailed goshawk
+dark chanting goshawk
+pale chanting goshawk
+eastern chanting goshawk
+gray frog hawk
+rufous-thighed kite
+mississippi kite
+eurasian kite
+swallow-tailed kite
+hook-billed kite
+brahminy kite
+sea eagle
+white-tailed eagle
+steller sea eagle
+american golden eagle
+golden eagle
+wedge-tailed eagle
+verreauxs eagle
+martial eagle
+crowned eagle
+cassin eagle
+african hawk eagle
+ornate hawk eagle
+philippine hawk eagle
+javan hawk eagle
+wallace hawk eagle
+rufous-bellied eagle
+red-tailed hawk
+ferruginous hawk
+rough-legged buzzard
+common buzzard
+steller sea eagle
+white-tailed eagle
+american golden eagle
+golden eagle
+wedge-tailed eagle
+verreauxs eagle
+martial eagle
+crowned eagle
+cassin eagle
+african hawk eagle
+ornate hawk eagle
+philippine hawk eagle
+javan hawk eagle
+wallace hawk eagle
+rufous-bellied eagle
+red-tailed hawk
+ferruginous hawk
+rough-legged buzzard
+common buzzard
+eurasian sparrowhawk
+northern goshawk
+crested serpent eagle
+short-toed snake eagle
+bearded vulture
+egyptian vulture
+palm-nut vulture
+griffon vulture
+himalayan griffon vulture
+eurasian black vulture
+bengal vulture
+white-rumped vulture
+red-headed vulture
+lappet-faced vulture
+white-headed vulture
+hooded vulture
+african white-backed vulture
+slender-billed vulture
+cinereous vulture
+california condor
+andean condor
+turkey vulture
+black vulture
+lesser yellow-headed vulture
+greater yellow-headed vulture
+king vulture
+osprey
